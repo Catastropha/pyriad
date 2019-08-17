@@ -1,0 +1,9 @@
+.idea/
+env/
+*.pyc
+examples/.ipynb_checkpoints
+build/
+dist/
+pyriad.egg-info/
+.pytest_cache/
+.coverage
