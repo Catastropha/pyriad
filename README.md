@@ -1,8 +1,8 @@
 # Clustering with nature inspired algorithms
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ba4116c451c4893b225d0bebbc306c8)](https://app.codacy.com/app/PyNature/pyriad)
-[![Codacy Badge](https://api.codacy.com/project/badge/coverage/2ba4116c451c4893b225d0bebbc306c8)](https://app.codacy.com/app/PyNature/pyriad)
-[![Build Status](https://api.travis-ci.org/pynature/pyriad.svg?branch=master)](https://travis-ci.org/pynature/pyriad)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c80f366d3044d1381b852f79d03fd58)](https://app.codacy.com/app/Catastropha/pyriad)
+[![Codacy Badge](https://api.codacy.com/project/badge/coverage/5c80f366d3044d1381b852f79d03fd58)](https://app.codacy.com/app/Catastropha/pyriad)
+[![Build Status](https://api.travis-ci.org/catastropha/pyriad.svg?branch=master)](https://travis-ci.org/catastropha/pyriad)
 [![Version](https://img.shields.io/pypi/v/pyriad.svg?style=flat)](https://pypi.org/project/pyriad/#history)
 [![PyPI downloads](https://img.shields.io/pypi/dm/pyriad.svg?style=flat)](https://pypi.org/project/pyriad/#files)
 ![License](https://img.shields.io/pypi/l/pyriad.svg?style=flat)
