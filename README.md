@@ -4,7 +4,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/coverage/5c80f366d3044d1381b852f79d03fd58)](https://app.codacy.com/app/Catastropha/pyriad)
 [![Build Status](https://api.travis-ci.org/catastropha/pyriad.svg?branch=master)](https://travis-ci.org/catastropha/pyriad)
 [![Version](https://img.shields.io/pypi/v/pyriad.svg?style=flat)](https://pypi.org/project/pyriad/#history)
-[![PyPI downloads](https://img.shields.io/pypi/dm/pyriad.svg?style=flat)](https://pypi.org/project/pyriad/#files)
+[![Downloads](https://pepy.tech/badge/pyriad)](https://pepy.tech/project/pyriad)
 ![License](https://img.shields.io/pypi/l/pyriad.svg?style=flat)
 
 `pyriad` offers clustering with a variety of nature inspired algorithms built with Python on top of the deep learning library [PyTorch](https://pytorch.org/).
